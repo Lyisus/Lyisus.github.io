@@ -70,7 +70,7 @@ div.section {
 /* This alters the appearance of the div with id="signup". */
 #poem {
 	height: 110px;
-	background: Red;
+	background: red;
 	text-align: center;
 }
 
